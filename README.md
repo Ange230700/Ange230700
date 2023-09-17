@@ -15,9 +15,7 @@ This repository serves as a portfolio of my projects.
   &nbsp;&nbsp;&nbsp;
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=563D7C)
   &nbsp;&nbsp;&nbsp;
-  ![SCSS](https://img.shields.io/badge/SCSS-282C34?logo=sass&logoColor=CC6699)
-  &nbsp;&nbsp;&nbsp;
-  ![SASS](https://img.shields.io/badge/SASS-282C34?logo=sass&logoColor=CC6699)
+  ![SASS / SCSS](https://img.shields.io/badge/SCSS-282C34?logo=sass&logoColor=CC6699)
   &nbsp;&nbsp;&nbsp;
   ![JS](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)
   &nbsp;&nbsp;&nbsp;

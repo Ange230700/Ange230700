@@ -33,10 +33,10 @@ This repository serves as a portfolio of my projects.
 
 - ⚡ Fun fact:
 
-I was born the 23rd of July.\
-23, like the number of Michael Jordan.\
-Does it mean that I'm a G.O.A.T? 🐐😏\
-I don't know about that!😁
+    I was born the 23rd of July.\
+    23, like the number of Michael Jordan.\
+    Does it mean that I'm a G.O.A.T? 🐐😏\
+    I don't know about that!😁
 
 ---
 

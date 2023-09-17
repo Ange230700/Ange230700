@@ -7,9 +7,7 @@ This repository serves as a portfolio of my projects.
 
 - 🌱 I’m currently learning:
 
-      ![JS](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)&nbsp;&nbsp;&nbsp;
-
-  &nbsp;
+  ![JS](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)
 
   - HTML
   - CSS

@@ -8,6 +8,13 @@ This repository serves as a portfolio of my projects.
 - 🌱 I’m currently learning:
 
   ![JS](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)
+  &nbsp;&nbsp;&nbsp;
+  ![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB)
+  &nbsp;&nbsp;&nbsp;
+  ![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933)
+  &nbsp;&nbsp;&nbsp;
+  ![Express.js](https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=white)
+  &nbsp;&nbsp;&nbsp;
 
   - HTML
   - CSS

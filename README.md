@@ -3,7 +3,7 @@
 Greetings! I'm Ange. I'm a front-end developer and an aspiring full-stack developer.\
 This repository serves as a portfolio of my projects.
 
-## About Me
+## What I'm up to 👨‍💻
 
 - 🌱 I’m currently learning:
 

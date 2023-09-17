@@ -17,6 +17,7 @@ This repository serves as a portfolio of my projects.
   - MySQL
 
 - 💬 Ask me about:
+
   - HTML
   - CSS
   - JavaScript
@@ -28,17 +29,20 @@ This repository serves as a portfolio of my projects.
 
 - 📫 How to reach me:
 
-    - [LinkedIn](https://www.linkedin.com/in/ange-kouakou-4b683b194)
-    - [Twitter](https://twitter.com/AngeEricStepha1)
-    - [Email](mailto:kouakouangeericstephane@gmail.com)
+  - [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://www.linkedin.com/in/ange-kouakou-4b683b194)
+  - [Twitter](https://twitter.com/AngeEricStepha1)
+  - [Email](mailto:kouakouangeericstephane@gmail.com)
 
 - ⚡ Fun fact:
 
-I was born the 23rd of July.\ 
+I was born the 23rd of July.\
 23, like the number of Michael Jordan.\
 Does it mean that I'm a G.O.A.T? 🐐😏\
 I don't know about that!😁
 
+---
+
+⭐ From [Ange230700](https://github.com/Ange230700)
 
 <!--
 Here are some ideas to get you started:

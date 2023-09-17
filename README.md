@@ -1,7 +1,7 @@
 # Welcome to Ange's Github Repository 👋
 
 Greetings! I'm Ange. I'm a front-end developer and an aspiring full-stack developer.\
-This repository serves as a portfolio of my projects.\
+This repository serves as a portfolio of my projects.
 
 ## About Me
 

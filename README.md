@@ -7,6 +7,18 @@ This repository serves as a portfolio of my projects.
 
 - 🌱 I’m currently learning:
 
+  ![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)
+  &nbsp;&nbsp;&nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6)
+  &nbsp;&nbsp;&nbsp;
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC)
+  &nbsp;&nbsp;&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=563D7C)
+  &nbsp;&nbsp;&nbsp;
+  ![SCSS](https://img.shields.io/badge/SCSS-282C34?logo=sass&logoColor=CC6699)
+  &nbsp;&nbsp;&nbsp;
+  ![SASS](https://img.shields.io/badge/SASS-282C34?logo=sass&logoColor=CC6699)
+  &nbsp;&nbsp;&nbsp;
   ![JS](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)
   &nbsp;&nbsp;&nbsp;
   ![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB)
@@ -15,26 +27,16 @@ This repository serves as a portfolio of my projects.
   &nbsp;&nbsp;&nbsp;
   ![Express.js](https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=white)
   &nbsp;&nbsp;&nbsp;
-
-  - HTML
-  - CSS
-  - JavaScript
-  - Linux Directory Structure / Files and Directories handling
-  - React
-  - Node.js
-  - Express.js
-  - MySQL
-
-- 💬 Ask me about:
-
-  - HTML
-  - CSS
-  - JavaScript
-  - Bootstrap
-  - Git
-  - GitHub
-  - Figma
-  - UI/UX Design
+  ![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=white)
+  &nbsp;&nbsp;&nbsp;
+  ![Git](https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032)
+  &nbsp;&nbsp;&nbsp;
+  ![Git Bash](https://img.shields.io/badge/Git%20Bash-282C34?logo=git&logoColor=F05032)
+  &nbsp;&nbsp;&nbsp;
+  ![GitHub](https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white)
+  &nbsp;&nbsp;&nbsp;
+  ![Figma](https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E)
+  &nbsp;&nbsp;&nbsp;
 
 - 📫 How to reach me:
 

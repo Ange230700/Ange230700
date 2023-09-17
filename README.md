@@ -29,9 +29,7 @@ This repository serves as a portfolio of my projects.
 
 - 📫 How to reach me:
 
-  - [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://www.linkedin.com/in/ange-kouakou-4b683b194)
-  - [Twitter](https://twitter.com/AngeEricStepha1)
-  - [Email](mailto:kouakouangeericstephane@gmail.com)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ange-kouakou-4b683b194) [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/AngeEricStepha1) [<img src="https://img.icons8.com/gmail" width="3.5%"/>](mailto:kouakouangeericstephane@gmail.com)
 
 - ⚡ Fun fact:
 

@@ -42,13 +42,6 @@ This repository serves as a portfolio of my projects.
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/AngeEricStepha1)&nbsp;&nbsp;&nbsp;
   [<img src="https://img.icons8.com/color/gmail" width="3.5%"/>](mailto:kouakouangeericstephane@gmail.com)
 
-- ⚡ Fun fact:
-
-  I was born the 23rd of July.\
-   23, like the number of Michael Jordan.\
-   Does it mean that I'm a G.O.A.T? 🐐😏\
-   I don't know about that!😁
-
 ---
 
 ⭐ From [Ange230700](https://github.com/Ange230700)

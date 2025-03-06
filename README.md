@@ -1,11 +1,16 @@
 # Welcome to Ange's Github Repository 👋
 
-Greetings! I'm Ange. I'm a front-end developer and an aspiring full-stack developer.\
-This repository serves as a portfolio of my projects.
+### About me
+
+Having always been fascinated by the Internet, which I consider to be mankind's greatest invention, I discovered programming in high school when I learned the C language. Fascinated by being able to transform abstract mathematical concepts into concrete solutions, I decided to pursue this path.
+
+After a 5-month intensive bootcamp in web development, I joined the **ADA Tech School** to deepen my skills in fullstack development, mastering languages such as **JavaScript**, **PHP** and **Java**. Through concrete projects, such as a Datavisualization application involving API manipulation or a back-office based on CRUD operations, I learned to solve complex problems while working in a team.
+
+Today, I'm looking for a work-study position as a **fullstack web developer**, to put my skills into practice and continue to evolve on innovative projects, particularly in the development of real-time discussion applications.
 
 ## What I'm up to 👨‍💻
 
-- 🌱 I’m currently learning:
+- 🌱 I’ve got a particular set of skills in these technologies:
 
   ![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)
   &nbsp;&nbsp;&nbsp;

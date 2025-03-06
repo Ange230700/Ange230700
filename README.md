@@ -42,13 +42,15 @@ Today, I'm looking for a work-study position as a **fullstack web developer**, t
   &nbsp;&nbsp;&nbsp;
   ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
   &nbsp;&nbsp;&nbsp;
+  ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+  &nbsp;&nbsp;&nbsp;
 
 
 - 📫 Contact me:
 
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](www.linkedin.com/in/ange-kouakou)&nbsp;&nbsp;&nbsp;
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/AngeEricStepha1)&nbsp;&nbsp;&nbsp;
-  [<img src="https://img.icons8.com/color/gmail" width="3.5%"/>](mailto:kouakouangeericstephane@gmail.com)
+  [<img src="https://img.icons8.com/color/gmail" width="3.5%"/>](mailto:kouakouangeericstephane@gmail.com)&nbsp;&nbsp;&nbsp;
 
 ---
 

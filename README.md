@@ -8,7 +8,7 @@ After a 5-month intensive bootcamp in web development, I joined the **ADA Tech S
 
 Today, I'm looking for a work-study position as a **fullstack web developer**, to put my skills into practice and continue to evolve on innovative projects, particularly in the development of real-time discussion applications.
 
-## What I'm up to 👨‍💻
+## What's my deal? 👨‍💻
 
 - 🌱 I’ve got a particular set of skills in these technologies:
 
@@ -40,10 +40,13 @@ Today, I'm looking for a work-study position as a **fullstack web developer**, t
   &nbsp;&nbsp;&nbsp;
   ![Figma](https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E)
   &nbsp;&nbsp;&nbsp;
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+  &nbsp;&nbsp;&nbsp;
 
-- 📫 How to reach me:
 
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ange-kouakou-4b683b194)&nbsp;&nbsp;&nbsp;
+- 📫 Contact me:
+
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](www.linkedin.com/in/ange-kouakou)&nbsp;&nbsp;&nbsp;
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/AngeEricStepha1)&nbsp;&nbsp;&nbsp;
   [<img src="https://img.icons8.com/color/gmail" width="3.5%"/>](mailto:kouakouangeericstephane@gmail.com)
 

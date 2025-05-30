@@ -18,37 +18,35 @@ Ultimately, I aspire to earn RNCP Level 7 certification in software architecture
 
 - 🌱 I’m working these technologies:
 
-  ![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6)
   &nbsp;&nbsp;&nbsp;
-  ![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6)
+  ![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&logoColor=white)
   &nbsp;&nbsp;&nbsp;
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC)
   &nbsp;&nbsp;&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=563D7C)
+  ![React.js](https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB)
   &nbsp;&nbsp;&nbsp;
-  ![SASS / SCSS](https://img.shields.io/badge/SCSS-282C34?logo=sass&logoColor=CC6699)
+  ![Nuxt.js](https://img.shields.io/badge/NuxtJS-282C34?logo=nuxtdotjs&logoColor=00DC82)
   &nbsp;&nbsp;&nbsp;
-  ![JS](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)
+  ![Vue.js](https://img.shields.io/badge/Vue-282C34?logo=vue.js&logoColor=4FC08D)
   &nbsp;&nbsp;&nbsp;
   ![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB)
   &nbsp;&nbsp;&nbsp;
-  ![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933)
+  ![Node.js](https://img.shields.io/badge/NodeJS-282C34?logo=node.js&logoColor=339933)
   &nbsp;&nbsp;&nbsp;
-  ![Express.js](https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/ExpressJS-282C34?logo=express&logoColor=white)
   &nbsp;&nbsp;&nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=white)
   &nbsp;&nbsp;&nbsp;
-  ![Git](https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032)
+  ![Angular](https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0031)
   &nbsp;&nbsp;&nbsp;
-  ![Git Bash](https://img.shields.io/badge/Git%20Bash-282C34?logo=git&logoColor=F05032)
+  ![NestJS](https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E)
   &nbsp;&nbsp;&nbsp;
-  ![GitHub](https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=blue)
   &nbsp;&nbsp;&nbsp;
   ![Figma](https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E)
   &nbsp;&nbsp;&nbsp;
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-  &nbsp;&nbsp;&nbsp;
-  ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=white)
   &nbsp;&nbsp;&nbsp;
 
 <!--

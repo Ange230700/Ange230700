@@ -16,7 +16,7 @@ Ultimately, I aspire to earn RNCP Level 7 certification in software architecture
 
 ## Skills 👨‍💻
 
-- 🌱 I’m working these technologies:
+- 🌱 I’m working with these technologies:
 
   ![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6)
   &nbsp;&nbsp;&nbsp;

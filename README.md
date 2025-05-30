@@ -44,8 +44,6 @@ Ultimately, I aspire to earn RNCP Level 7 certification in software architecture
   &nbsp;&nbsp;&nbsp;
   ![Prisma](https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=blue)
   &nbsp;&nbsp;&nbsp;
-  ![Figma](https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E)
-  &nbsp;&nbsp;&nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=white)
   &nbsp;&nbsp;&nbsp;
 

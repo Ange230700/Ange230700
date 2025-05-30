@@ -2,15 +2,21 @@
 
 ### About me
 
-Having always been fascinated by the Internet, which I consider to be mankind's greatest invention, I discovered programming in high school when I learned the C language. Fascinated by being able to transform abstract mathematical concepts into concrete solutions, I decided to pursue this path.
+Hello, my name is Ange Kouakou, and I am currently studying at ADA Tech School. I began my programming journey in high school in 2016-2017, where I learned the basics of the C language. I was captivated by the prospect of translating mathematical concepts into tangible creations on the screen.
 
-After a 5-month intensive bootcamp in web development, I joined the **ADA Tech School** to deepen my skills in fullstack development, mastering languages such as **JavaScript**, **PHP** and **Java**. Through concrete projects, such as a Datavisualization application involving API manipulation or a back-office based on CRUD operations, I learned to solve complex problems while working in a team.
+I quickly discovered that programming involves more than applying mathematical concepts. It is a discipline that requires solving real and complex problems in a logical and creative way and actively participating in constructing the digital world.
 
-Today, I'm looking for a work-study position as a **fullstack web developer**, to put my skills into practice and continue to evolve on innovative projects, particularly in the development of real-time discussion applications.
+To confirm my career plans, I attended a five-month web development boot camp at Wild Code School. This experience solidified my decision to become a web developer. Currently, at ADA Tech School, I am honing my front-end and back-end technology skills, including with TypeScript, PHP, Java, and Python.
 
-## What's my deal? 👨‍💻
+I have worked on several team projects, such as a PHP application to manage and plan an association's recycling operations. This project allowed me to master authentication and user rights management while developing my appreciation for teamwork and agile principles.
 
-- 🌱 I’ve got a particular set of skills in these technologies:
+My goal is to obtain RNCP Level 6 certification as an application designer-developer. I am looking for a 12- to 36-month work-study program starting in June 2025, which involves four days at the company and one day of training. Working for your company would allow me to apply my full-stack skills and contribute to tangible projects.
+
+Ultimately, I aspire to earn RNCP Level 7 certification in software architecture and contribute to the development of robust and innovative solutions.
+
+## Skills 👨‍💻
+
+- 🌱 I’m working these technologies:
 
   ![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)
   &nbsp;&nbsp;&nbsp;
@@ -44,17 +50,6 @@ Today, I'm looking for a work-study position as a **fullstack web developer**, t
   &nbsp;&nbsp;&nbsp;
   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
   &nbsp;&nbsp;&nbsp;
-
-
-- 📫 Contact me:
-
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](www.linkedin.com/in/ange-kouakou)&nbsp;&nbsp;&nbsp;
-  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/AngeEricStepha1)&nbsp;&nbsp;&nbsp;
-  [<img src="https://img.icons8.com/color/gmail" width="3.5%"/>](mailto:kouakouangeericstephane@gmail.com)&nbsp;&nbsp;&nbsp;
-
----
-
-⭐ From [Ange230700](https://github.com/Ange230700)
 
 <!--
 Here are some ideas to get you started:

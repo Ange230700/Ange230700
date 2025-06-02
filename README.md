@@ -2,15 +2,15 @@
 
 ### About me
 
-Hello, my name is Ange Kouakou, and I am currently studying at ADA Tech School. I began my programming journey in high school in 2016-2017, where I learned the basics of the C language. I was captivated by the prospect of translating mathematical concepts into tangible creations on the screen.
+I am currently studying at ADA Tech School. My journey into programming began in high school during the 2016–17 school year, when I learned the basics of the C programming language. I was captivated by the prospect of translating mathematical concepts into tangible creations on the screen.
 
-I quickly discovered that programming involves more than applying mathematical concepts. It is a discipline that requires solving real and complex problems in a logical and creative way and actively participating in constructing the digital world.
+I quickly discovered that programming involves more than applying mathematical concepts; it's a discipline that requires solving real and complex problems in a logical and creative way and actively participating in constructing the digital world.
 
-To confirm my career plans, I attended a five-month web development boot camp at Wild Code School. This experience solidified my decision to become a web developer. Currently, at ADA Tech School, I am honing my front-end and back-end technology skills, including with TypeScript, PHP, Java, and Python.
+To confirm my career plans, I attended a five-month web development bootcamp at Wild Code School. This experience solidified my decision to become a web developer. Currently, at ADA Tech School, I am honing my front-end and back-end technology skills, including TypeScript, Java, PHP, and Python.
 
-I have worked on several team projects, such as a PHP application to manage and plan an association's recycling operations. This project allowed me to master authentication and user rights management while developing my appreciation for teamwork and agile principles.
+I have worked on several team projects, such as an application developed with Vite, TypeScript, and React to visualize missing persons data recorded in the FBI system. This project allowed me to work with API calls and develop my appreciation for teamwork and agile principles.
 
-My goal is to obtain RNCP Level 6 certification as an application designer-developer. I am looking for a 12- to 36-month work-study program starting in June 2025, which involves four days at the company and one day of training. Working for your company would allow me to apply my full-stack skills and contribute to tangible projects.
+My goal is to obtain RNCP Level 6 certification as an application designer-developer. I am looking for a 12- or 36-month work-study program starting in June 2025 (four days at a company and one day of training).
 
 Ultimately, I aspire to earn RNCP Level 7 certification in software architecture and contribute to the development of robust and innovative solutions.
 

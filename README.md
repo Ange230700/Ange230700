@@ -10,7 +10,7 @@ To confirm my career plans, I attended a five-month web development bootcamp at 
 
 I have worked on several team projects, such as an application developed with Vite, TypeScript, and React to visualize missing persons data recorded in the FBI system. This project allowed me to work with API calls and develop my appreciation for teamwork and agile principles.
 
-My goal is to obtain RNCP Level 6 certification as an application designer-developer. I am looking for a 12- or 36-month work-study program starting in June 2025 (four days at a company and one day of training).
+My goal is to obtain RNCP Level 6 certification as an application designer-developer. I am looking for a 12- or 36-month work-study program starting in September 2025 (four days at a company and one day of training).
 
 Ultimately, I aspire to earn RNCP Level 7 certification in software architecture and contribute to the development of robust and innovative solutions.
 

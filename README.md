@@ -2,17 +2,10 @@
 
 ### About me
 
-I am currently studying at ADA Tech School. My journey into programming began in high school during the 2016–17 school year, when I learned the basics of the C programming language. I was captivated by the prospect of translating mathematical concepts into tangible creations on the screen.
-
-I quickly discovered that programming involves more than applying mathematical concepts; it's a discipline that requires solving real and complex problems in a logical and creative way and actively participating in constructing the digital world.
-
-To confirm my career plans, I attended a five-month web development bootcamp at Wild Code School. This experience solidified my decision to become a web developer. Currently, at ADA Tech School, I am honing my front-end and back-end technology skills, including TypeScript, Java, PHP, and Python.
-
-I have worked on several team projects, such as an application developed with Vite, TypeScript, and React to visualize missing persons data recorded in the FBI system. This project allowed me to work with API calls and develop my appreciation for teamwork and agile principles.
-
-My goal is to obtain RNCP Level 6 certification as an application designer-developer. I am looking for a 12- or 36-month work-study program starting in September 2025 (four days at a company and one day of training).
-
-Ultimately, I aspire to earn RNCP Level 7 certification in software architecture and contribute to the development of robust and innovative solutions.
+My journey into programming started in 2016-2017 during my high school years, when I learned the basics of the C language. I was fascinated by the ability to turn mathematical ideas into tangible creations on the screen.
+I quickly realized that programming involves more than just applying mathematical concepts: it is a discipline that entails solving real, complex problems in a logical and creative manner, and actively shaping the digital world.
+To confirm my career direction, I attended a five-month web development boot camp at Wild Code School. This experience strengthened my decision to become a web developer. Now, at ADA Tech School, I am sharpening my skills in both front-end and back-end technologies, focusing on the TypeScript/JavaScript ecosystem.
+I have contributed to several team projects, including an application built with Vite, TypeScript, and React to visualize data on missing persons registered in the FBI system. This project allowed me to work on API calls while enhancing my teamwork and agile skills.
 
 ## Skills 👨‍💻
 

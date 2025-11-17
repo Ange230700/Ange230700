@@ -2,10 +2,15 @@
 
 ### About me
 
-My journey into programming started in 2016-2017 during my high school years, when I learned the basics of the C language. I was fascinated by the ability to turn mathematical ideas into tangible creations on the screen.
-I quickly realized that programming involves more than just applying mathematical concepts: it is a discipline that entails solving real, complex problems in a logical and creative manner, and actively shaping the digital world.
-To confirm my career direction, I attended a five-month web development boot camp at Wild Code School. This experience strengthened my decision to become a web developer. Now, at ADA Tech School, I am sharpening my skills in both front-end and back-end technologies, focusing on the TypeScript/JavaScript ecosystem.
-I have contributed to several team projects, including an application built with Vite, TypeScript, and React to visualize data on missing persons registered in the FBI system. This project allowed me to work on API calls while enhancing my teamwork and agile skills.
+I'm an aspiring full-stack Typescript developer trying to build real products that solve real problems — from web to mobile to desktop. My focus is simple: create clean systems, elegant interfaces, and long-term digital foundations that actually move businesses, ideas forward.
+
+Right now, I'm leading a 12-month, end-to-end solo project: an all-in-one platform for a couture atelier in Côte d'Ivoire, West Africa.
+
+Beyond all that, I'm building V∅ID, my personal brand as a techie, dedicated to the idea of building from nothing. Minimalism, precision, consistency, and discipline guide how I design, code, and lead projects.
+
+At the core, I'm aspiring to be a builder. If a solution doesn't exist, let's find a way to create it. If a system is messy, let's architect it. If a product has no direction, let's find one.
+
+I'm always open to connecting with other developers, designers, entrepreneurs, and product-minded builders.
 
 ## Skills 👨‍💻
 
